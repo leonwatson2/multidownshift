@@ -1,4 +1,4 @@
-This project was a modification of Kent Dobbs [multidownshift implementation](https://codesandbox.io/s/W6gyJ30kn)
+This project was a modification of Kent Dobb's [multidownshift implementation](https://codesandbox.io/s/W6gyJ30kn)
 
 ## Available Scripts
 
